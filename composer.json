@@ -1,0 +1,15 @@
+{
+    "name": "mindaugas/vigi-app",
+    "autoload": {
+        "psr-4": {
+            "VigiApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mindaugas",
+            "email": "mindaugas.g@rrr.lt"
+        }
+    ],
+    "require": {}
+}
